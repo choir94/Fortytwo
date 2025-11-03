@@ -11,6 +11,7 @@ Run this command on your VPS terminal:
 
 ```bash
 wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/42.sh -O 42.sh && chmod +x 42.sh && ./42.sh
+```
 
 Notes
 
