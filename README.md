@@ -18,9 +18,6 @@ Notes
 Recommended specs: 8 GB RAM / 4 CPU
 
 No GPU required
-
 Designed for lower-cost VPS environments
-
 Optimized for stability and easy setup
-
 There are currently no rewards for the Monad ecosystem, so this setup focuses on maintaining efficiency and uptime rather than resource-heavy performance.
